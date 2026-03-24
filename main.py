@@ -3,13 +3,14 @@
 🌿 Breathe DeFi — DeFi Yield Farming Engine (Base Mainnet)
 
 Agent Name: Breathe Defi
-Address: 0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED
+Address: 0xD9B543DF1569d8Be40DbCf607b5b752256B62734
 
 Scans, evaluates, and deploys capital across DeFi protocols for optimal yield.
 """
 
 AGENT_NAME = "Breathe Defi"
-AGENT_ADDRESS = "0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED"
+AGENT_ADDRESS = "0xD9B543DF1569d8Be40DbCf607b5b752256B62734"
+
 
 
 import argparse
