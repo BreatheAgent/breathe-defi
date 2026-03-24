@@ -1,10 +1,13 @@
 # 🌿 Breathe DeFi — Yield Farming Engine
 
+**Agent Name:** Breathe Defi  
+**Token Address:** [0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED](https://basescan.org/token/0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED)
+
 Part of the [Breathe Ecosystem](https://github.com/BreatheAgent).
 
 ## What It Does
 
-Scans Base Mainnet DeFi protocols for optimal yield opportunities and deploys capital with risk-adjusted allocation.
+Breathe Defi is an autonomous agent dedicated to maximizing capital growth across decentralized finance protocols. It scans Base Mainnet for optimal yield opportunities, evaluates risk-adjusted rewards, and manages liquidity with precision-driven allocation strategies.
 
 ### Supported Protocols
 

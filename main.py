@@ -2,13 +2,15 @@
 """
 🌿 Breathe DeFi — DeFi Yield Farming Engine (Base Mainnet)
 
-Scans, evaluates, and deploys capital across DeFi protocols for optimal yield.
+Agent Name: Breathe Defi
+Address: 0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED
 
-Usage:
-    python main.py --scan                  # Scan for yield opportunities
-    python main.py --propose 500           # Generate allocation for $500
-    python main.py --execute --dry-run     # Simulate execution
+Scans, evaluates, and deploys capital across DeFi protocols for optimal yield.
 """
+
+AGENT_NAME = "Breathe Defi"
+AGENT_ADDRESS = "0x3d6a4fEa44986Cb2c9745905f3E2BF2A3ea7aFED"
+
 
 import argparse
 import json
